@@ -128,3 +128,8 @@ int main()
             cout << "Exiting program." << endl;
             break;
 
+        default:
+            cout << "invalid choice. Try again." << endl;
+            break;
+        }
+
